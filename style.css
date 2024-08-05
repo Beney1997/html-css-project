@@ -1,0 +1,32 @@
+*{
+    background-color: bisque;
+}
+
+.img{
+   width: 100px;
+   height:100px;
+}
+
+[draggable]{
+    color: blue;
+}
+
+[value]{
+    color: brown;
+}
+
+.header{
+    color: chartreuse;
+}
+
+.body{
+    color: rgb(95, 156, 160);
+}
+
+.gift{
+    color: rgb(129, 30, 210);
+}
+
+[dropzone]{
+    color: rgb(255, 0, 85)
+}
